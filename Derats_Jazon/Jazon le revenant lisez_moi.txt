@@ -1,0 +1,6 @@
+Jazon est un revenant, un guerrier mort-vivant de niveau 8 très fort et très résistant qui à la particularité une fois que vous l'avez invoqué de vous suivre partout comme un familier.
+S'il meurt, vous pourrez récupérer son cœur pour le ré-invoquer après une nuit de sommeil.
+Jazon ne peut peut pas progresser en xp, il sera éternellement niveau 8. De plus il se déplace plus lentement que les pjs.
+Il y  5% de chance chaque fois que vous invoquez Jazon qu'il se montre hostile.
+
+Pour le trouver, fouiller les tombes. Dans le cimetière d'Atkatla dans BG2, dans la vallée des ombres de IWDEE. Il faut commencer une nouvelle partie pour pouvoir trouver son cœur.

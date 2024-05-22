@@ -1,0 +1,13 @@
+IF
+	OnCreation()
+	Global("pxjjsazon","LOCALS",0)
+THEN
+	RESPONSE #95
+		MakeGlobal()
+		ChangeEnemyAlly(Myself,FAMILIAR)
+		AddFamiliar()
+		SetGlobal("pxjjsazon","LOCALS",1)
+	RESPONSE #5
+		ChangeEnemyAlly(Myself,ENEMY)
+		SetGlobal("pxjjsazon","LOCALS",1)
+END
