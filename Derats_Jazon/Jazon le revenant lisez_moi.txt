@@ -4,3 +4,8 @@ Jazon ne peut peut pas progresser en xp, il sera éternellement niveau 8. De plu
 Il y  5% de chance chaque fois que vous invoquez Jazon qu'il se montre hostile.
 
 Pour le trouver, fouiller les tombes. Dans le cimetière d'Atkatla dans BG2, dans la vallée des ombres de IWDEE. Il faut commencer une nouvelle partie pour pouvoir trouver son cœur.
+
+Jason commence avec une arme non-magique et gagne un arme magique avec l'évolution du personnage principal, l'enchantement de son arme étant égal au M d'xp du personnage principal (exemple : il est équipé d'une arme +4 quand le personnage principal à 4M+ d'xp) max +5 à 5M d'xp.
+
+Mise à jour :
+V2 : Jason à une arme qui évolue.

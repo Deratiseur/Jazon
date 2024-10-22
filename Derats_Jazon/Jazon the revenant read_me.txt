@@ -4,3 +4,8 @@ Jazon cannot progress in xp, he will be level 8 forever. He also moves more slow
 There is a 5% chance each time you summon Jazon that he will turn hostile.
 
 To find him, search the tombs. In the Atkatla cemetery in BG2, in the Valley of Shadows in IWDEE. You need to start a new game to find his heart.
+
+Jason starts with a non-magical weapon and gains a magical weapon with the main character's evolution, the enchantment of his weapon being equal to the main character's M xp (example: he is equipped with a +4 weapon when the main character has 4M+ xp) max +5 at 5M xp.
+
+Update:
+V2: Jason has an evolving weapon. The heart icon is reduced.

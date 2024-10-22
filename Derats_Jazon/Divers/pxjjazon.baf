@@ -11,3 +11,48 @@ THEN
 		ChangeEnemyAlly(Myself,ENEMY)
 		SetGlobal("pxjjsazon","LOCALS",1)
 END
+
+IF
+	XPGT(Player1,4999999)
+	Global("pxjjsezwepon","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxjjenc5",Myself)
+	SetGlobal("pxjjsezwepon","LOCALS",1)
+END
+
+IF
+	XPGT(Player1,3999999)
+	Global("pxjjsezwepon","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxjjenc4",Myself)
+	SetGlobal("pxjjsezwepon","LOCALS",1)
+END
+
+IF
+	XPGT(Player1,2999999)
+	Global("pxjjsezwepon","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxjjenc3",Myself)
+	SetGlobal("pxjjsezwepon","LOCALS",1)
+END
+
+IF
+	XPGT(Player1,1999999)
+	Global("pxjjsezwepon","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxjjenc2",Myself)
+	SetGlobal("pxjjsezwepon","LOCALS",1)
+END
+
+IF
+	XPGT(Player1,999999)
+	Global("pxjjsezwepon","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxjjenc1",Myself)
+	SetGlobal("pxjjsezwepon","LOCALS",1)
+END
