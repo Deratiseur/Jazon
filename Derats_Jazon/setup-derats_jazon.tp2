@@ -1,6 +1,6 @@
 BACKUP ~Derats_Jazon/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v2~
+VERSION ~v3~
 
 AUTO_TRA ~Derats_Jazon/Languages/%s~ /////%s~
 
@@ -21,10 +21,10 @@ COMPILE ~Derats_Jazon/Divers/pxjjazon.baf~
 COPY	~Derats_Jazon/Copy~					~override~
 COPY	~Derats_Jazon/Divers/pxjjazon.cre~	~override~	SAY NAME1 @1	SAY NAME2 @1
 COPY	~Derats_Jazon/Divers/pxjcoeur.itm~	~override~	SAY NAME2 @2	SAY DESC @3
-COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc2.spl~	WRITE_BYTE 0x9e 2	WRITE_BYTE 0xfe 2	WRITE_BYTE 0x12e 2	WRITE_BYTE 0xce 105
-COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc3.spl~	WRITE_BYTE 0x9e 3	WRITE_BYTE 0xfe 3	WRITE_BYTE 0x12e 3	WRITE_BYTE 0xce 231
-COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc4.spl~	WRITE_BYTE 0x9e 4	WRITE_BYTE 0xfe 4	WRITE_BYTE 0x12e 4	WRITE_BYTE 0xce 36
-COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc5.spl~	WRITE_BYTE 0x9e 5	WRITE_BYTE 0xfe 5	WRITE_BYTE 0x12e 5	WRITE_BYTE 0xce 115
+COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc2.spl~	WRITE_BYTE 0x9e 2	WRITE_BYTE 0xfe 2	WRITE_BYTE 0x12e 2	WRITE_BYTE 0x15e 2	WRITE_BYTE 0xce 105
+COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc3.spl~	WRITE_BYTE 0x9e 3	WRITE_BYTE 0xfe 3	WRITE_BYTE 0x12e 3	WRITE_BYTE 0x15e 3	WRITE_BYTE 0xce 231
+COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc4.spl~	WRITE_BYTE 0x9e 4	WRITE_BYTE 0xfe 4	WRITE_BYTE 0x12e 4	WRITE_BYTE 0x15e 4	WRITE_BYTE 0xce 36
+COPY_EXISTING ~pxjjenc1.spl~	~override/pxjjenc5.spl~	WRITE_BYTE 0x9e 5	WRITE_BYTE 0xfe 5	WRITE_BYTE 0x12e 5	WRITE_BYTE 0x15e 5	WRITE_BYTE 0xce 115
 
 
 ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
