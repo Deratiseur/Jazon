@@ -1,6 +1,6 @@
 Jazon is a revenant, a level 8 undead warrior who is very strong and resistant, and once you summon him he follows you around like a familiar.
 If he dies, you can recover his heart and summon him again after a rest.
-Jazon cannot progress in xp, he will be level 8 forever.
+Jazon cannot progress in xp, he will be level 8 forever. It also moves more slowly than the pjs.
 There is a 5% chance each time you summon Jazon that he will turn hostile.
 
 To find him, search the tombs. In the Atkatla cemetery in BG2, in the Valley of Shadows in IWDEE. You need to start a new game to find his heart.
@@ -9,6 +9,15 @@ Jason starts with a non-magical weapon and gains a magical weapon with the main 
 
 If you forget to pick up Jazon's heart and lose it somewhere, give it to yourself via the console or EEKeeper. Item code: pxjcoeur.itm.
 
+
+The "Jason is a psychopathic killer" option modifies Jazon as follows:
+- No more slow movement
+- When he kills, he gains +1 to hit and damage for 24H (cumulative)
+- His regeneration is reduced.
+
+
+
 Update:
-v2 : Russian translation (thanks to scheele)
+v2: Russian translation (thanks to scheele)
 v3: Jason has an evolving weapon. The heart icon is reduced.
+v4: added the "Jason is a psychopathic killer" option.
