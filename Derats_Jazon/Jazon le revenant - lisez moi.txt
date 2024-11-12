@@ -9,6 +9,14 @@ Jason commence avec une arme non-magique et gagne un arme magique avec l'évolut
 
 Si vous oubliez de ramasser le cœur de Jazon et le perdez quelque part, donner vous le par la console ou EEKeeper. Code de l'objet : pxjcoeur.itm.
 
+L'option "Jason est un tueur psychopathe" modifie Jazon comme ceci :
+- Plus de mouvement ralenti
+- Quand il tue il gagne +1 aux dégâts et au toucher pour 24H (cumulable)
+- Sa régénération est réduite.
+
+
+
 Mise à jour :
 v2 : traduction Russe (merci à scheele)
 v3 : Jason à une arme qui évolue. L’icône du cœur est réduite.
+v4 : ajout de l'option "Jason est un tueur psychopathe".

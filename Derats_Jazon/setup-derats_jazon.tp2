@@ -1,6 +1,6 @@
 BACKUP ~Derats_Jazon/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v3~
+VERSION ~v4~
 
 AUTO_TRA ~Derats_Jazon/Languages/%s~ /////%s~
 
@@ -13,9 +13,8 @@ LANGUAGE ~English~	~English~
 LANGUAGE ~Russian~	~Russian~
 	~Derats_Jazon/Languages/Russian/Setup.tra~
 	
-BEGIN @0
+BEGIN @0	DESIGNATED 0
 REQUIRE_PREDICATE GAME_IS ~BG2EE EET IWDEE~ @0009
-DESIGNATED 0
 
 COMPILE ~Derats_Jazon/Divers/pxjjazon.baf~
 COPY	~Derats_Jazon/Copy~					~override~
@@ -40,3 +39,9 @@ ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 	LAUNCH_PATCH_FUNCTION ADD_AREA_ITEM	INT_VAR container_to_add_to = 1	STR_VAR item_to_add = pxjcoeur	END
 	END
 END
+
+BEGIN @4	DESIGNATED 1
+REQUIRE_PREDICATE GAME_IS ~BG2EE EET IWDEE~ @0009
+REQUIRE_COMPONENT ~setup-Derats_Jazon.tp2~ ~0~ @5
+COPY	~Derats_Jazon/psycho/pxjjazon.cre~	~override~	SAY NAME1 @1	SAY NAME2 @1
+COPY	~Derats_Jazon/psycho/pxjpsych.spl~	~override~
