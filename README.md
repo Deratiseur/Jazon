@@ -23,6 +23,8 @@ Il commence avec une arme non-magique et gagne un arme magique +x tous les 1M d'
 
 Vous trouverez son coeur dans une tombe : dans le cimetière d'Atkatla dans BG2, dans la vallée des ombres de IWDEE.
 
+L'option "Jazon est un tueur psychopathe supprime son malus au mouvement, ralenti sa régénération et le fait gagner en puissance chaque fois qu'il tue.
+
 -------------
 
 A mute undead warrior who follows you around all the zones as a 7th member.
@@ -34,3 +36,5 @@ He is level 8 and cannot progress.
 He starts with a non-magical weapon and gains a magical weapon +x for every 1M xp of player 1 (x= M, e.g. weapon +3 when player 1 has 3M xp).
 
 You'll find his heart in a tomb: in the Atkatla cemetery in BG2, in the Valley of Shadows in IWDEE.
+
+The "Jazon is a psychopathic killer" option removes his movement malus, slows his regeneration and makes him gain power every time he kills.
