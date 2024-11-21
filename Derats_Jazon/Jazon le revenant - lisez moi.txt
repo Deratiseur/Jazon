@@ -20,3 +20,4 @@ Mise à jour :
 v2 : traduction Russe (merci à scheele)
 v3 : Jason à une arme qui évolue. L’icône du cœur est réduite.
 v4 : ajout de l'option "Jason est un tueur psychopathe".
+v5 : correction : Jazon n'y voyait rien quand il était envoyé dans le brouillard de guerre.

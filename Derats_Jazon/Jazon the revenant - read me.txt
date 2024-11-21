@@ -21,3 +21,4 @@ Update:
 v2: Russian translation (thanks to scheele)
 v3: Jason has an evolving weapon. The heart icon is reduced.
 v4: added the "Jason is a psychopathic killer" option.
+v5: correction: Jazon couldn't see a thing when he was sent into the fog of war.
