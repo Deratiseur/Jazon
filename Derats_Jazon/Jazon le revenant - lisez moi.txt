@@ -11,7 +11,7 @@ Si vous oubliez de ramasser le cœur de Jazon et le perdez quelque part, donner 
 
 L'option "Jason est un tueur psychopathe" modifie Jazon comme ceci :
 - Plus de mouvement ralenti
-- Quand il tue il gagne +1 aux dégâts et au toucher pour 24H (cumulable)
+- Quand il tue il gagne +1 aux dégâts et au toucher pour 8H (cumulable)
 - Sa régénération est réduite.
 
 
@@ -20,4 +20,4 @@ Mise à jour :
 v2 : traduction Russe (merci à scheele)
 v3 : Jason à une arme qui évolue. L’icône du cœur est réduite.
 v4 : ajout de l'option "Jason est un tueur psychopathe".
-v5 : correction : Jazon n'y voyait rien quand il était envoyé dans le brouillard de guerre.
+v4.2 : correction : Maintenant Jazon supprime le brouillard de guerre se déplaçant. Le bonus donné par "Jason est un tueur psychopathe" ne dure plus que 8 heures.
