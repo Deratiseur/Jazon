@@ -21,3 +21,4 @@ v2 : traduction Russe (merci à scheele)
 v3 : Jason à une arme qui évolue. L’icône du cœur est réduite.
 v4 : ajout de l'option "Jason est un tueur psychopathe".
 v4.2 : correction : Maintenant Jazon supprime le brouillard de guerre se déplaçant. Le bonus donné par "Jason est un tueur psychopathe" ne dure plus que 8 heures.
+v4.3 : correction d'une erreur de typo dans les fichiers tra anglais et russes.
