@@ -23,3 +23,4 @@ v3: Jason has an evolving weapon. The heart icon is reduced.
 v4: added the "Jason is a psychopathic killer" option.
 v4.2: correction: Jazon now removes the fog of war when walking. The bonus given by "Jason is a psychopathic killer" now lasts only 8 hours.
 v4.3: correction of a typographical error in English and Russian tra files.
+v4.4: Moved the script slot so that it can be managed by one of the Tweal Anthology components.
