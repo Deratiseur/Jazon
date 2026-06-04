@@ -15,26 +15,22 @@
 
 Un guerrier mort-vivant muet qui vous suit dans toutes les zones en tant que 7ème membre.
 
-Il est très fort et très résistant, et s'il meurt vous pourrez le re-invoquer dès le lendemain.
+Il est très fort et très résistant, et s'il meurt charname regagne son coeur pourr le re-invoquer après un repos.
 
-Il est de niveau 8 et ne peut pas progresser.
+Il est de niveau 8 et ne peut pas progresser. Mais chaque fois qu'il tue il gagne un bonus cumulable valable 8 heures.
 
 Il commence avec une arme non-magique et gagne un arme magique +x tous les 1M d'xp du joueur 1 (x= M, exemple arme +3 quand le joueur 1 à 3M d'xps)
 
 Vous trouverez son coeur dans une tombe : dans le cimetière d'Atkatla dans BG2, dans la vallée des ombres de IWDEE.
 
-L'option "Jazon est un tueur psychopathe supprime son malus au mouvement, ralenti sa régénération et le fait gagner en puissance chaque fois qu'il tue.
-
 -------------
 
 A mute undead warrior who follows you around all the zones as a 7th member.
 
-He's very strong and resilient, and if he dies you can summon him again the next day.
+He's very strong and resilient, and if he dies, Charname regains his heart so he can summon him again after a rest.
 
-He is level 8 and cannot progress.
+He is level 8 and cannot progress. But every time he kills something, he earns a cumulative bonus that lasts for 8 hours.
 
 He starts with a non-magical weapon and gains a magical weapon +x for every 1M xp of player 1 (x= M, e.g. weapon +3 when player 1 has 3M xp).
 
 You'll find his heart in a tomb: in the Atkatla cemetery in BG2, in the Valley of Shadows in IWDEE.
-
-The "Jazon is a psychopathic killer" option removes his movement malus, slows his regeneration and makes him gain power every time he kills.
