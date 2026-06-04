@@ -1,24 +1,22 @@
 Jazon est un revenant, un guerrier mort-vivant de niveau 8 très fort et très résistant qui à la particularité une fois que vous l'avez invoqué de vous suivre partout comme un familier.
 S'il meurt, le personnage principal récupère automatiquement son cœur pour pouvoir le ré-invoquer après une nuit de sommeil.
-Jazon ne peut peut pas progresser en xp, il sera éternellement niveau 8.
+Jazon ne peut peut pas progresser en xp, il sera éternellement niveau 8. Mais il tue il gagne +1 aux dégâts et au toucher pour 8H (cumulable).
 Il y  5% de chance chaque fois que vous invoquez Jazon qu'il se montre hostile.
 
 Pour le trouver, fouiller les tombes. Dans le cimetière d'Atkatla dans BG2, dans la vallée des ombres de IWDEE. Il faut commencer une nouvelle partie pour pouvoir trouver son cœur.
 
-Jason commence avec une arme non-magique et gagne un arme magique avec l'évolution du personnage principal, l'enchantement de son arme étant égal au M d'xp du personnage principal (exemple : il est équipé d'une arme +4 quand le personnage principal à 4M+ d'xp) max +5 à 5M d'xp.
-
-Quand Jason tue il gagne +1 aux dégâts et au toucher pour 8H (cumulable).
+Jazon commence avec une arme non-magique et gagne un arme magique avec l'évolution du personnage principal, l'enchantement de son arme étant égal au M d'xp du personnage principal (exemple : il est équipé d'une arme +4 quand le personnage principal à 4M+ d'xp) max +5 à 5M d'xp.
 
 
 
 Mise à jour :
 v2 : traduction Russe (merci à scheele)
-v3 : Jason à une arme qui évolue. L’icône du cœur est réduite.
-v4 : ajout de l'option "Jason est un tueur psychopathe".
+v3 : Jazon à une arme qui évolue. L’icône du cœur est réduite.
+v4 : ajout de l'option "Jazon est un tueur psychopathe".
 v4.2 : correction : Maintenant Jazon supprime le brouillard de guerre se déplaçant.
-	   Le bonus donné par "Jason est un tueur psychopathe" ne dure plus que 8 heures.
+	   Le bonus donné par "Jazon est un tueur psychopathe" ne dure plus que 8 heures.
 v4.3 : correction d'une erreur de typo dans les fichiers tra anglais et russes.
 v4.4 : Déplacement du slot du script pour qu'il puisse être géré par un des composants de Tweak Anthology.
-V5 : Disparition de l'option. Jason devient "un tueur psychopathe" par défaut.
-	 Quand Jason meurt il ne faut plus ramasser son cœur : il est donné automatiquement au player 1.
-	 Quand jason n'a rien à faire il suit le Player 1.
+V5 : Disparition de l'option. Jazon devient "un tueur psychopathe" par défaut.
+	 Quand Jazon meurt il ne faut plus ramasser son cœur : il est donné automatiquement au player 1.
+	 Quand Jazon n'a rien à faire il suit le Player 1.

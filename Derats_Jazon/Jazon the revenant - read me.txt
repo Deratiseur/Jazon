@@ -1,23 +1,21 @@
 Jazon is a revenant, a level 8 undead warrior who is very strong and resistant, and once you summon him he follows you around like a familiar.
-If he dies, If he dies, the main character automatically retrieves his heart so that he can summon him again after a rest.
-Jazon cannot progress in xp, he will be level 8 forever. It also moves more slowly than the pjs.
+If he dies, the main character automatically retrieves his heart so that he can summon him again after a rest.
+Jazon cannot progress in xp, he will be level 8 forever. But when he kills, he gains +1 to hit and damage for 8H (cumulative)
 There is a 5% chance each time you summon Jazon that he will turn hostile.
 
 To find him, search the tombs. In the Atkatla cemetery in BG2, in the Valley of Shadows in IWDEE. You need to start a new game to find his heart.
 
-Jason starts with a non-magical weapon and gains a magical weapon with the main character's evolution, the enchantment of his weapon being equal to the main character's M xp (example: he is equipped with a +4 weapon when the main character has 4M+ xp) max +5 at 5M xp.
-
-When Jason kills, he gains +1 to hit and damage for 8H (cumulative)
+Jazon starts with a non-magical weapon and gains a magical weapon with the main character's evolution, the enchantment of his weapon being equal to the main character's M xp (example: he is equipped with a +4 weapon when the main character has 4M+ xp) max +5 at 5M xp.
 
 
 Update:
 v2: Russian translation (thanks to scheele)
-v3: Jason has an evolving weapon. The heart icon is reduced.
-v4: added the "Jason is a psychopathic killer" option.
+v3: Jazon has an evolving weapon. The heart icon is reduced.
+v4: added the "Jazon is a psychopathic killer" option.
 v4.2: correction: Jazon now removes the fog of war when walking.
-	  The bonus given by "Jason is a psychopathic killer" now lasts only 8 hours.
+	  The bonus given by "Jazon is a psychopathic killer" now lasts only 8 hours.
 v4.3: correction of a typographical error in English and Russian tra files.
 v4.4: Moved the script slot so that it can be managed by one of the Tweal Anthology components.
-V5: Option removed. Jason becomes a “psychopathic killer” by default.
-     When Jason dies, you no longer need to pick up his heart: it is automatically given to Player 1.
-     When Jason has nothing to do, he follows Player 1.
+V5: Option removed. Jazon becomes a “psychopathic killer” by default.
+     When Jazon dies, you no longer need to pick up his heart: it is automatically given to Player 1.
+     When Jazon has nothing to do, he follows Player 1.
