@@ -21,3 +21,4 @@ v4.4: Moved the script slot so that it can be managed by one of the Tweal Anthol
 V5: Option removed. Jazon becomes a “psychopathic killer” by default.
      When Jazon dies, you no longer need to pick up his heart: it is automatically given to Player 1.
      When Jazon has nothing to do, he follows Player 1.
+V6: Jazon now follows Player 1 only if the player presses K.
