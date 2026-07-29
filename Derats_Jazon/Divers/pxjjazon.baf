@@ -80,9 +80,8 @@ THEN
 END
 
 IF
-  ActionListEmpty()
-  !See(Nearestenemyof(Myself))
-  !See(Player1)
+	HotKey(D)
+	!See(Player1)
 THEN
   RESPONSE #100
     MoveToObject(Player1)
