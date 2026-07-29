@@ -80,7 +80,7 @@ THEN
 END
 
 IF
-	HotKey(D)
+	HotKey(K)
 	!See(Player1)
 THEN
   RESPONSE #100
